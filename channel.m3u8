@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,########## News ##########
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" status="online",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,########## Sports ##########
 #EXTINF:-1,Star Sports 1 FHD VIP IN
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5431
