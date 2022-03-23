@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1,########## News ##########
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,########## Sports ##########
+#EXTINF:-1,Star Sports 1 FHD VIP IN
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5431
+#EXTINF:-1,TEN Sports FHD IN
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5433
+#EXTINF:-1,Star Sports 2 FHD IN
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5430
+#EXTINF:-1,Star Sports 3 HD IN
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5429
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://stariptv.org:8080/wael2021/123456/93634
