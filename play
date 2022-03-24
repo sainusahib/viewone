@@ -1,26 +1,28 @@
 #EXTM3U
 #EXTINF:-1,########## Quran ##########
-#EXTINF:-1,Al Quran FHD
+#EXTINF:-1,Al Quran FHD group-title="Religious",Al Quran FHD
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1,Al Sunna FHD
+#EXTINF:-1,Al Sunna FHD group-title="Religious",Al Sunna FHD
 http://m.live.net.sa:193/live/sunnah/playlist.m3u8
 #EXTINF:-1,########## News ##########
-#EXTINF:-1,Al Jazeera English FHD
+#EXTINF:-1,Al Jazeera English FHD group-title="News",Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,Al Jazeera English HD
+#EXTINF:-1,Al Jazeera English HD group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1,Sky News FHD VIP UK group-title="News",Sky News FHD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692631
+#EXTINF:-1,Sky News HD VIP UK group-title="News",Sky News
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/692632
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
 http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International UK
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,########## Sports ##########
-#EXTINF:-1,Star Sports 1 FHD
+#EXTINF:-1,Star Sports 1 FHD group-title="Sports",Star Sports 1 FHD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5431
-#EXTINF:-1,TEN Sports FHD IN
+#EXTINF:-1,TEN Sports FHD IN group-title="Sports",Ten Sports 1 FHD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5433
-#EXTINF:-1,Star Sports 2 FHD IN
+#EXTINF:-1,Star Sports 2 FHD IN group-title="Sports",Star Sports 2 HD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5430
-#EXTINF:-1,Star Sports 3 HD IN
+#EXTINF:-1,Star Sports 3 HD IN group-title="Sports",Star Sports 3 HD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5429
-#EXTINF:-1,IN: STAR SPORTS 1 HD
-http://stariptv.org:8080/wael2021/123456/93634
